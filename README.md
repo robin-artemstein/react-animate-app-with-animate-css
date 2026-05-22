@@ -1,4 +1,4 @@
-# React Animate CSS app
+# React Animate app with Animate.css
 
 The CSS animation application build the following tech stack combination.
 
