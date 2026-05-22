@@ -51,20 +51,7 @@ export default function ByeModal({ isOpen, onClose }: ByeModalProps) {
           </h2>
           
           <p className="text-violet-100 leading-relaxed text-lg">
-            Nunc viverra mollis dui, finibus commodo nisi sagittis a. 
-            Pellentesque volutpat vel turpis vitae vulputate. In hac habitasse 
-            platea dictumst. In convallis, ex eu fermentum iaculis, orci erat 
-            tincidunt est, sed pulvinar lectus metus vel diam. Curabitur at ante 
-            ac diam tempor varius ut pharetra leo. Mauris et leo at sem consectetur 
-            ullamcorper. Nullam maximus viverra tincidunt. Fusce sit amet pretium 
-            sapien. Mauris at arcu et massa iaculis hendrerit quis nec nisi. 
-            Vivamus quis est non nibh dignissim fringilla eu vel tellus. 
-            Vestibulum sollicitudin lorem sapien, nec semper sem sagittis id. 
-            Quisque fermentum lectus ac nibh eleifend gravida. Nam dictum eros 
-            urna, iaculis pellentesque nisl fringilla eget. Sed ultrices, mauris 
-            sit amet porttitor ornare, diam augue ornare quam, vitae aliquam dui 
-            nulla in velit. Curabitur mollis enim augue, non fermentum risus 
-            malesuada id.
+            Nunc viverra mollis dui, finibus commodo nisi sagittis a. Pellentesque volutpat vel turpis vitae vulputate. In hac habitasse platea dictumst. In convallis, ex eu fermentum iaculis, orci erat tincidunt est, sed pulvinar lectus metus vel diam. Curabitur at ante ac diam tempor varius ut pharetra leo. Mauris et leo at sem consectetur ullamcorper. Nullam maximus viverra tincidunt. Fusce sit amet pretium sapien. Mauris at arcu et massa iaculis hendrerit quis nec nisi. Vivamus quis est non nibh dignissim fringilla eu vel tellus. Vestibulum sollicitudin lorem sapien, nec semper sem sagittis id. Quisque fermentum lectus ac nibh eleifend gravida. Nam dictum eros urna, iaculis pellentesque nisl fringilla eget. Sed ultrices, mauris sit amet porttitor ornare, diam augue ornare quam, vitae aliquam dui nulla in velit. Curabitur mollis enim augue, non fermentum risus malesuada id.
           </p>
         </div>
       </div>
